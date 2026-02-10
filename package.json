@@ -1,0 +1,7 @@
+{
+  "name": "simple-nft-staking-rewards",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
